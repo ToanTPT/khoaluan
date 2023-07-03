@@ -1,0 +1,16 @@
+git clone --single-branch -b "react-social-ui" https://github.com/safak/ytps://github.com/safak/youtube2022.git
+npm install --global yarn
+yarn // trong thư mục git
+yarn start
+
+yarn add express mysql nodemon // api
+npm init -y
+yarn add bcryptjs
+yarn add jsonwebtoken cookie-parser cors
+yarn add moment
+yarn add multer
+
+// client
+yarn add axios
+yarn add @tanstack/react-query
+yarn add moment
